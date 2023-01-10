@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "802601440056",
+    "project_id": "e09-firebase",
+    "storage_bucket": "e09-firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:802601440056:android:97855582c6466157b0e7cd",
+        "android_client_info": {
+          "package_name": "hugo.monton.blanco.e09_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "802601440056-jphnkauu9oek4p1gjlnn9sim7e4sdifl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5Lm46kK_RRyyEUtpz7jBc7nC1WVO8MFY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "802601440056-jphnkauu9oek4p1gjlnn9sim7e4sdifl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
